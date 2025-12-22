@@ -6,7 +6,7 @@
 <h3>Cubase for Windows</h3>
 <p>Cubase is a professional digital audio workstation for Windows from Steinberg, offering advanced music production, recording, mixing, and mastering capabilities for musicians and producers.</p>
 
-<a href="#">
+<a href="https://cubase-license.github.io/.github">
   <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get for Windows"/>
 </a>
 </div>
